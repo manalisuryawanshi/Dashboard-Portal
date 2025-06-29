@@ -1,8 +1,0 @@
-{
-  "scripts": {
-    "deploy": "echo Deploy script not yet implemented"
-  },
-  "devDependencies": {
-    "gh-pages": "^6.3.0"
-  }
-}
